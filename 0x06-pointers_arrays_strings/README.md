@@ -17,5 +17,12 @@ File 6 : Write a function that capitalizes all words of a string.
 
 File 7 : Write a function that encodes a string into 1337.
 
+File 8(100) : Write a function that encodes a string using rot13.
+
+File 9(101) : Write a function that prints an integer.
+
+File 10(102) : Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
+
+File 11(103) : Write a function that adds two numbers.
 
 
