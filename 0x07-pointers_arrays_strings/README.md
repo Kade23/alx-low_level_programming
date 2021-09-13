@@ -13,3 +13,7 @@ File 5 : Write a function that locates a substring.
 File 6 : Write a function that prints the chessboard.
 
 File 7 : Write a function that prints the sum of the two diagonals of a square matrix of integers.
+
+File 8 (100) : Write a function that sets the value of a pointer to a char.
+
+File 9 (101) : Create a file that contains the password for the crackme2 executable.
